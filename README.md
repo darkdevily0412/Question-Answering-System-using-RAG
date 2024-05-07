@@ -1,3 +1,7 @@
+[![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2334D058.svg?style=flat&logo=hugging-face&logoColor=white)](https://huggingface.co/)
+
 # Question-Answering-System-using-RAG 💡
 Create a robust and user-friendly QA system based on RAG allowing users to ask questions and receive accurate answers based on PDF documents. 📄
 
