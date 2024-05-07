@@ -34,3 +34,12 @@ To be added based on the actual implementation and results. 📝
 - [PyPDF2](https://pypi.org/project/PyPDF2/)
 - [Langchain](https://github.com/hwchase17/langchain)
 - [ChromaDB](https://www.chromadb.org/)
+
+## Workflow 🔄
+
+1. **Development**: Develop the QA system using Python, Flask, PyPDF2, Langchain, and ChromaDB.
+2. **Testing**: Test the system using Jupyter Notebook and Hugging Face.
+3. **Deployment**: Deploy the system using a cloud service provider.
+4. **Monitoring**: Monitor the system for any issues and make necessary updates.
+
+![Workflow](https://github.com/<your-username>/<your-repo>/workflows/Question-Answering-System-using-RAG/badge.svg)
