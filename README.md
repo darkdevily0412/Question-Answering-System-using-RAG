@@ -5,7 +5,7 @@
 
 # Question-Answering-System-using-RAG 💡
 
-Create a robust and user-friendly QA system based on RAG (Retrieval-Augmented Generation) that allows users to ask questions and receive accurate answers based on PDF documents. 📄
+Creating a robust and user-friendly QA system based on RAG (Retrieval-Augmented Generation) that allows users to ask questions and receive accurate answers based on PDF documents. 📄
 
 ## Overview 📊
 
