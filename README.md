@@ -1,5 +1,5 @@
-![ChromaDB](https://www.chromadb.org/img/logo.png)
-![Langchain](https://github.com/hwchase17/langchain/raw/master/docs/source/_static/langchain-logo.png)
+[![ChromaDB](https://www.chromadb.org/img/logo.png)](https://www.trychroma.com/)
+[![Langchain](https://github.com/hwchase17/langchain/raw/master/docs/source/_static/langchain-logo.png)](https://www.langchain.com/)
 [![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%2334D058.svg?style=flat&logo=hugging-face&logoColor=white)](https://huggingface.co/)
