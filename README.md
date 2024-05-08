@@ -57,6 +57,9 @@ To be added based on the actual implementation and results. 📝
 
 ## Demo Vedio
 
+https://github.com/darkdevily0412/Question-Answering-System-using-RAG/assets/136149918/2383a479-2846-4e30-87b7-24e18e4d2779
+
+
 ## Workflow 🔄
 
 - Development: Develop the QA system using Python, Flask, PyPDF2, Langchain, and ChromaDB.
